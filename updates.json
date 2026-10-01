@@ -1,0 +1,13 @@
+{
+  "addons": {
+    "basket-check@riolla.local": {
+      "updates": [
+        {
+          "version": "1.8.2",
+          "update_link": "https://romanetoile-design.github.io/basket-check-updates/a0429b14d78b43249f34-1.8.2.xpi",
+          "update_hash": "sha256:365b9e128add3cc895f1e39b568621217e67e3555dcf235fe74019e5d39e14d2"
+        }
+      ]
+    }
+  }
+}
