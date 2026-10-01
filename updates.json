@@ -6,6 +6,11 @@
           "version": "1.8.2",
           "update_link": "https://romanetoile-design.github.io/basket-check-updates/a0429b14d78b43249f34-1.8.2.xpi",
           "update_hash": "sha256:365b9e128add3cc895f1e39b568621217e67e3555dcf235fe74019e5d39e14d2"
+        },
+        {
+          "version": "1.8.3",
+          "update_link": "https://romanetoile-design.github.io/basket-check-updates/a0429b14d78b43249f34-1.8.3.xpi",
+          "update_hash": "sha256:d4e1aec25dc629a835d8f4952e5333c7838dbfc5a6296e2e2d94788d3a4b5d0a"
         }
       ]
     }
